@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2035fb61-9cbe-4b8e-a84f-b18026fa38a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/IFListas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista1/6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista2/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista2/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista2/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista3/1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista3/2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista3/3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lista3/4.py" afterDir="false" />
-    </list>
+    <list default="true" id="2035fb61-9cbe-4b8e-a84f-b18026fa38a7" name="Changes" comment="primeira parte" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,12 +63,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1722002997118</updated>
-      <workItem from="1722003001931" duration="7962000" />
+      <workItem from="1722003001931" duration="8274000" />
     </task>
+    <task id="LOCAL-00001" summary="primeira parte">
+      <option name="closed" value="true" />
+      <created>1722016150211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722016150211</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeira parte" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeira parte" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/IFListas$5.coverage" NAME="5 Coverage Results" MODIFIED="1722005231415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lista1" />
